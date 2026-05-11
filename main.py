@@ -53,5 +53,5 @@ except Exception as e:
     registrar_log(str(e))
 
 finally:
-
-    print("Sistema ejecutado correctamente")
+    print("Sistema ejecutado correctamente") #prueba de commit
+    
